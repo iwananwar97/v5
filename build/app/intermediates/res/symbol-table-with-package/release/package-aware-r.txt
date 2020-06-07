@@ -1,0 +1,4 @@
+com.example.catatan_keuangan
+drawable launch_background
+mipmap ic_launcher
+style LaunchTheme
